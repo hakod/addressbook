@@ -2,7 +2,7 @@
 
 Front End coding challenge with React, Redux, Webpack
 
-## Install, run, test
+## How to install, run, and test
 
 Install with npm
 
